@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260326224319TRF3GZ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260326224319315WF0</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Situación de Aprendizaje: Prevención del consumo de tabaco y vapeo.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ana Castañeda Sampedro</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>SdA: Prevención del consumo de tabaco y vapeo.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1774561395182</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mn801brh-tojks1pty</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Título. Descripción de la SdA.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la SdA.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la SdA.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn801brh-tojks1pty</odePageId>
+      <odeBlockId>block-mn7zmoy4-8b1zfqx5q</odeBlockId>
+      <blockName>Prevención del consumo de tabaco y vapeo. </blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn801brh-tojks1pty</odePageId>
+          <odeBlockId>block-mn7zmoy4-8b1zfqx5q</odeBlockId>
+          <odeIdeviceId>idevice-mn7zmoy4-j05pk90xy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;"><strong>Descripción de la situación de aprendizaje</strong></p>
+<p style="text-align: justify;">Esta situación de aprendizaje (SdA) tiene como objetivo concienciar al alumnado sobre los riesgos asociados al consumo de tabaco y dispositivos de vapeo, fomentando hábitos de vida saludables y el desarrollo del pensamiento crítico.</p>
+<p style="text-align: justify;"><strong>Etapa educativa y nivel</strong></p>
+<p style="text-align: justify;">Esta SdA está dirigida a la etapa de Educación Secundaria para Personas Adultas (ESPA), nivel 2.1, dentro del Ámbito científico-tecnológico, en el módulo “Las personas y la salud”.</p>
+<p style="text-align: justify;"><strong>Áreas, materias y/o módulos implicados</strong></p>
+<p>               Ámbito científico-tecnológico: módulo “Personas y Salud”.</p>
+<p><strong>Agrupamientos y organización espacial</strong></p>
+<p style="text-align: justify;">El trabajo se desarrollará combinando distintos tipos de agrupamiento, siguiendo los principios del Diseño Universal para el Aprendizaje (DUA):</p>
+<p style="text-align: justify;">Trabajo individual: investigación y recogida de información. Elaboración de productos (infografía y podcast).<br />Gran grupo: puesta en común, debate y reflexión final.<br />*<em><strong>Es importante destacar que actualmente sólo asisten dos estudiantes a este módulo por lo que no se puede plantear la realización de agrupamientos.</strong></em></p>
+<p style="text-align: justify;">La organización espacial será flexible:</p>
+<p style="text-align: justify;">Aula habitual para el trabajo individual y grupal.<br />Posible uso del aula TIC o dispositivos móviles para la elaboración de productos digitales.<br /><strong></strong></p>
+<p style="text-align: justify;"><strong>Temporalización</strong></p>
+<p style="text-align: justify;">La SdA se desarrollará a lo largo de 2 sesiones de 2 horas cada sesión:</p>
+<p style="text-align: justify; padding-left: 30px;">Introducción al tema y explicación de conocimientos previos.<br />Investigación sobre el tabaco y el vapeo (composición y sustancias).<br />Análisis de efectos en el organismo y enfermedades asociadas.<br />Factores sociales y psicológicos del consumo (presión social, publicidad, etc.).<br />Elaboración de la infografía.<br />Grabación del podcast y puesta en común final.</p>
+<p style="text-align: justify;"><br /><strong>Productos finales del alumnado</strong></p>
+<p style="text-align: justify;">El alumnado desarrollará los siguientes productos:</p>
+<p style="text-align: justify; padding-left: 30px;"><strong><em>Infografía digital interactiva:</em></strong> donde sintetizarán la información sobre composición, efectos y riesgos del tabaco y el vapeo. Podrá incluir elementos interactivos como enlaces, códigos QR o recursos multimedia.<br /><strong><em>Podcast:</em></strong> en el que expondrán sus conclusiones, reflexiones personales y mensajes de concienciación, desarrollando sus habilidades comunicativas.<br />Además, durante el proceso se generarán productos intermedios como:</p>
+<p style="text-align: justify; padding-left: 60px;">Búsqueda y selección de información.<br />Esquemas o resúmenes.<br />Guion del podcast.<br />Herramientas tecnológicas y recursos</p>
+<p style="text-align: justify;"><strong>Herramientas para el alumnado:</strong> canva (creación de infografías), genially (elementos interactivos), Adobe Audacity (grabación de podcast), navegadores web para investigación, etc.</p>
+<p style="text-align: justify;"><strong>Herramientas para el docente:</strong> plataforma educativa (Teams).</p>
+<p style="text-align: justify;"><strong>Recursos complementarios:</strong> páginas web oficiales (OMS, Ministerio de Sanidad), vídeos divulgativos en YouTube sobre salud y tabaquismo, etc.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\"><strong>Descripción de la situación de aprendizaje</strong></p>\n<p style=\"text-align: justify;\">Esta situación de aprendizaje (SdA) tiene como objetivo concienciar al alumnado sobre los riesgos asociados al consumo de tabaco y dispositivos de vapeo, fomentando hábitos de vida saludables y el desarrollo del pensamiento crítico.</p>\n<p style=\"text-align: justify;\"><strong>Etapa educativa y nivel</strong></p>\n<p style=\"text-align: justify;\">Esta SdA está dirigida a la etapa de Educación Secundaria para Personas Adultas (ESPA), nivel 2.1, dentro del Ámbito científico-tecnológico, en el módulo “Las personas y la salud”.</p>\n<p style=\"text-align: justify;\"><strong>Áreas, materias y/o módulos implicados</strong></p>\n<p>               Ámbito científico-tecnológico: módulo “Personas y Salud”.</p>\n<p><strong>Agrupamientos y organización espacial</strong></p>\n<p style=\"text-align: justify;\">El trabajo se desarrollará combinando distintos tipos de agrupamiento, siguiendo los principios del Diseño Universal para el Aprendizaje (DUA):</p>\n<p style=\"text-align: justify;\">Trabajo individual: investigación y recogida de información. Elaboración de productos (infografía y podcast).<br />Gran grupo: puesta en común, debate y reflexión final.<br />*<em><strong>Es importante destacar que actualmente sólo asisten dos estudiantes a este módulo por lo que no se puede plantear la realización de agrupamientos.</strong></em></p>\n<p style=\"text-align: justify;\">La organización espacial será flexible:</p>\n<p style=\"text-align: justify;\">Aula habitual para el trabajo individual y grupal.<br />Posible uso del aula TIC o dispositivos móviles para la elaboración de productos digitales.<br /><strong></strong></p>\n<p style=\"text-align: justify;\"><strong>Temporalización</strong></p>\n<p style=\"text-align: justify;\">La SdA se desarrollará a lo largo de 2 sesiones de 2 horas cada sesión:</p>\n<p style=\"text-align: justify; padding-left: 30px;\">Introducción al tema y explicación de conocimientos previos.<br />Investigación sobre el tabaco y el vapeo (composición y sustancias).<br />Análisis de efectos en el organismo y enfermedades asociadas.<br />Factores sociales y psicológicos del consumo (presión social, publicidad, etc.).<br />Elaboración de la infografía.<br />Grabación del podcast y puesta en común final.</p>\n<p style=\"text-align: justify;\"><br /><strong>Productos finales del alumnado</strong></p>\n<p style=\"text-align: justify;\">El alumnado desarrollará los siguientes productos:</p>\n<p style=\"text-align: justify; padding-left: 30px;\"><strong><em>Infografía digital interactiva:</em></strong> donde sintetizarán la información sobre composición, efectos y riesgos del tabaco y el vapeo. Podrá incluir elementos interactivos como enlaces, códigos QR o recursos multimedia.<br /><strong><em>Podcast:</em></strong> en el que expondrán sus conclusiones, reflexiones personales y mensajes de concienciación, desarrollando sus habilidades comunicativas.<br />Además, durante el proceso se generarán productos intermedios como:</p>\n<p style=\"text-align: justify; padding-left: 60px;\">Búsqueda y selección de información.<br />Esquemas o resúmenes.<br />Guion del podcast.<br />Herramientas tecnológicas y recursos</p>\n<p style=\"text-align: justify;\"><strong>Herramientas para el alumnado:</strong> canva (creación de infografías), genially (elementos interactivos), Adobe Audacity (grabación de podcast), navegadores web para investigación, etc.</p>\n<p style=\"text-align: justify;\"><strong>Herramientas para el docente:</strong> plataforma educativa (Teams).</p>\n<p style=\"text-align: justify;\"><strong>Recursos complementarios:</strong> páginas web oficiales (OMS, Ministerio de Sanidad), vídeos divulgativos en YouTube sobre salud y tabaquismo, etc.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn801brh-tojks1pty</odePageId>
+      <odeBlockId>block-mn7zmoy4-jk5bf8u2w</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn801brh-tojks1pty</odePageId>
+          <odeBlockId>block-mn7zmoy4-jk5bf8u2w</odeBlockId>
+          <odeIdeviceId>idevice-mn7zmoy4-yy3pe9n7z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn801brk-6ncc4sdj0</odePageId>
+  <odeParentPageId>page-mn801brh-tojks1pty</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn801brk-6ncc4sdj0</odePageId>
+      <odeBlockId>block-mn7zmoy4-gju9c54gv</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn801brk-6ncc4sdj0</odePageId>
+          <odeBlockId>block-mn7zmoy4-gju9c54gv</odeBlockId>
+          <odeIdeviceId>idevice-mn7zmoy4-ybyzy3egf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><strong>Justificación de su desarrollo y el impacto esperado</strong></p>
+<p>Mediante esta situación de aprendizaje se pretende que el alumnado integre saberes básicos relacionados con la salud, comprendiendo la importancia de mantener hábitos de vida saludables y evitando el consumo de tabaco y dispositivos de vapeo. Esta propuesta responde a la necesidad de prevenir conductas de riesgo en edades tempranas, así como de fomentar el pensamiento crítico ante la influencia social y mediática.</p>
+<p>El impacto principal de esta actividad es que el alumnado conozca los riesgos del consumo de tabaco y vaper, siendo consciente de cómo afectan a su organismo, especialmente al sistema respiratorio. Asimismo, se espera que desarrollen una actitud responsable y crítica, favoreciendo la toma de decisiones saludables en su vida cotidiana.</p>
+<p><strong>Relación de la SdA con los ODS y Retos del siglo XXI. </strong></p>
+<p>Esta SdA está relacionada con el ODS 3. Salud y Bienestar. Respeto a los retos del siglo XXI se destaca: desarrollar estilos de vida saludable a partir de la comprensión del funcionamiento del organismo y la reflexión crítica sobre los factores internos y externos que inciden en ella, asumiendo la responsabilidad personal y social en el cuidado propio y en el cuidado de las demás personas, así como en la promoción de la salud pública.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><strong>Justificación de su desarrollo y el impacto esperado</strong></p>\n<p>Mediante esta situación de aprendizaje se pretende que el alumnado integre saberes básicos relacionados con la salud, comprendiendo la importancia de mantener hábitos de vida saludables y evitando el consumo de tabaco y dispositivos de vapeo. Esta propuesta responde a la necesidad de prevenir conductas de riesgo en edades tempranas, así como de fomentar el pensamiento crítico ante la influencia social y mediática.</p>\n<p>El impacto principal de esta actividad es que el alumnado conozca los riesgos del consumo de tabaco y vaper, siendo consciente de cómo afectan a su organismo, especialmente al sistema respiratorio. Asimismo, se espera que desarrollen una actitud responsable y crítica, favoreciendo la toma de decisiones saludables en su vida cotidiana.</p>\n<p><strong>Relación de la SdA con los ODS y Retos del siglo XXI. </strong></p>\n<p>Esta SdA está relacionada con el ODS 3. Salud y Bienestar. Respeto a los retos del siglo XXI se destaca: desarrollar estilos de vida saludable a partir de la comprensión del funcionamiento del organismo y la reflexión crítica sobre los factores internos y externos que inciden en ella, asumiendo la responsabilidad personal y social en el cuidado propio y en el cuidado de las demás personas, así como en la promoción de la salud pública.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn801brl-fswv8b8v6</odePageId>
+  <odeParentPageId>page-mn801brh-tojks1pty</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn801brl-fswv8b8v6</odePageId>
+      <odeBlockId>block-mn7zmoy4-awnt01fiz</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn801brl-fswv8b8v6</odePageId>
+          <odeBlockId>block-mn7zmoy4-awnt01fiz</odeBlockId>
+          <odeIdeviceId>idevice-mn7zmoy4-xiev6jam5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><strong>En las siguientes tablas se describen  los elementos curriculares asociados con la SdA diseñada.</strong></p>
+<table style="width: 100%; height: 52px;" border="1">
+<tbody>
+<tr style="height: 26px;">
+<td style="width: 100%; text-align: center; height: 26px;"><strong>Competencias clave</strong></td>
+</tr>
+<tr style="height: 26px;">
+<td style="width: 100%; height: 26px;">Competencia en comunicación lingüística<br />Competencia matemática y competencia en ciencia, tecnología e ingeniería<br />Competencia digital<br />Competencia personal, social y de aprender a aprender<br />Competencia ciudadana<br />Competencia emprendedora<br />Competencia en conciencia y expresión culturales</td>
+</tr>
+</tbody>
+</table>
+<p><strong> </strong></p>
+<table style="width: 100%; height: 542px;" border="1">
+<tbody>
+<tr style="height: 26px;">
+<td style="width: 31.5942%; height: 26px; text-align: center;"><strong>Competencias específicas</strong></td>
+<td style="width: 44.0289%; height: 26px; text-align: center;"><strong>Criterios de evaluación</strong></td>
+<td style="width: 24.3768%; height: 26px; text-align: center;"><strong>Descriptores operativos</strong></td>
+</tr>
+<tr style="height: 215px;">
+<td style="width: 31.5942%; height: 158px; text-align: center;"><span style="font-size: 10pt;">1 - Interpretar y transmitir información y datos científicos argumentando sobre ellos y utilizando diferentes formatos para analizar conceptos y procesos de las ciencias biológicas y geológicas. </span></td>
+<td style="width: 44.0289%; height: 158px; text-align: center;"><span style="font-size: 10pt;">1.2 Facilitar la comprensión y análisis de información sobre procesos biológicos y geológicos transmitiéndola de forma clara y utilizando la terminología y los formatos adecuados (imágenes, modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas, símbolos, contenidos digitales, etc.), exponiendo argumentos fundamentados, respetuosos y flexibles.</span></td>
+<td style="width: 24.3768%; height: 158px; text-align: center;"><span style="font-size: 10pt;">CCL1, CCL2, STEM2, STEM4, CD1, CD4, CC4</span></td>
+</tr>
+<tr style="height: 107px;">
+<td style="width: 31.5942%; height: 202px; text-align: center;" rowspan="2"><span style="font-size: 10pt;">2 - Identificar, localizar y seleccionar información, contrastando su veracidad, organizándola y evaluándola críticamente para resolver preguntas relacionadas con las ciencias biológicas y geológicas.</span></td>
+<td style="width: 44.0289%; height: 85px; text-align: center;"><span style="font-size: 10pt;">2.1 Resolver cuestiones sobre Biología y Geología localizando, seleccionando y organizando información de distintas fuentes y citándolas correctamente.</span></td>
+<td style="width: 24.3768%; height: 85px; text-align: center;"><span style="font-size: 10pt;">CCL1, CCL2, STEM2, STEM3, CD1, CD2.</span></td>
+</tr>
+<tr style="height: 134px;">
+<td style="width: 44.0289%; height: 117px; text-align: center;"><span style="font-size: 10pt;">2.2 Reconocer la información sobre temas biológicos y geológicos con base científica distinguiéndola de pseudociencias, bulos, teorías conspiratorias y creencias infundadas y manteniendo una actitud escéptica ante estos.</span></td>
+<td style="width: 24.3768%; height: 117px; text-align: center;"><span style="font-size: 10pt;">CCL3, STEM2, STEM3, CD1, CD2, CD3, CPSAA4, CCEC4</span></td>
+</tr>
+<tr style="height: 26px;">
+<td style="width: 31.5942%; height: 26px; text-align: center;"><span style="font-size: 10pt;">3. Planificar y desarrollar proyectos </span><span style="font-size: 10pt;">de investigación, siguiendo los </span><span style="font-size: 10pt;">pasos de las metodologías </span><span style="font-size: 10pt;">científicas y cooperando cuando</span><br /><span style="font-size: 10pt;">sea necesario para indagar en </span><span style="font-size: 10pt;">aspectos relacionados con las</span><br /><span style="font-size: 10pt;">ciencias geológicas y biológicas.</span></td>
+<td style="width: 44.0289%; height: 26px; text-align: center;"><span style="font-size: 10pt;">3.5 Cooperar dentro de un proyecto científico </span><span style="font-size: 10pt;">asumiendo responsablemente una función </span><span style="font-size: 10pt;">concreta, utilizando espacios virtuales cuando </span><span style="font-size: 10pt;">sea necesario, respetando la diversidad y </span><span style="font-size: 10pt;">favoreciendo la inclusión.</span></td>
+<td style="width: 24.3768%; height: 26px; text-align: center;"><span style="font-size: 10pt;">CCL1, CD2, CPSAA3, CC1.</span></td>
+</tr>
+<tr style="height: 26px;">
+<td style="width: 31.5942%; height: 26px; text-align: center;"><span style="font-size: 10pt;">4. Utilizar el razonamiento y el </span><span style="font-size: 10pt;">pensamiento computacional,</span><br /><span style="font-size: 10pt;">analizando críticamente las respuestas </span><span style="font-size: 10pt;">y soluciones y reformulando el </span><span style="font-size: 10pt;">procedimiento, si fuera necesario,</span><br /><span style="font-size: 10pt;">para resolver problemas o dar </span><span style="font-size: 10pt;">explicación a procesos de la vida.</span></td>
+<td style="width: 44.0289%; height: 26px; text-align: center;"><span style="font-size: 10pt;">4.1 Resolver problemas, crear modelos o </span><span style="font-size: 10pt;">dar explicación a procesos biológicos o</span><br /><span style="font-size: 10pt;">geológicos utilizando conocimientos, datos </span><span style="font-size: 10pt;">e información proporcionados por el </span><span style="font-size: 10pt;">profesorado, el razonamiento lógico, el </span><span style="font-size: 10pt;">pensamiento computacional o los recursos</span><br /><span style="font-size: 10pt;">digitales.</span></td>
+<td style="width: 24.3768%; height: 26px; text-align: center;"><span style="font-size: 10pt;">STEM1, STEM2, CD3, CD5, CE1, CE3, CCEC4.</span></td>
+</tr>
+</tbody>
+</table>
+<p><strong></strong></p>
+<table style="width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%; text-align: center;"><strong>Saberes básicos</strong></td>
+</tr>
+<tr>
+<td style="width: 100%;">
+<p><span style="font-size: 10pt;"><strong>Bloque A: Proyecto científico</strong></span><br /><span style="font-size: 10pt;">     Estrategias para la búsqueda, selección y organización de información sobre el consumo de tabaco y vapeadores en fuentes fiables.</span><br /><span style="font-size: 10pt;">     Análisis crítico de la información relacionada con la salud y los hábitos de consumo en medios digitales y redes sociales.</span><br /><span style="font-size: 10pt;">    Comunicación de resultados a través de diferentes formatos: infografía, podcast, presentación oral o vídeo.</span></p>
+<p><span style="font-size: 10pt;"><strong>Bloque F: El cuerpo humano</strong></span><br /><span style="font-size: 10pt;">    Anatomía y fisiología básica del aparato respiratorio.</span><br /><span style="font-size: 10pt;">    Efectos del consumo de tabaco y vapeadores en el sistema respiratorio.</span><br /><span style="font-size: 10pt;">    Principales enfermedades asociadas al tabaquismo (bronquitis, enfisema, cáncer de pulmón, entre otras).</span></p>
+<p><span style="font-size: 10pt;"><strong>Bloque G: Hábitos de vida saludables</strong></span><br /><span style="font-size: 10pt;">    Impacto del consumo de tabaco y nicotina en la salud física y mental.</span></p>
+<p><span style="font-size: 10pt;">    Estrategias para la toma de decisiones responsables y el rechazo de hábitos perjudiciales.</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong></strong></p>
+<table style="width: 99.9984%; height: 166px;" border="1">
+<tbody>
+<tr style="height: 26px;">
+<td style="width: 54.5507%; height: 26px; text-align: center;" colspan="4"><strong>Evaluación</strong></td>
+</tr>
+<tr style="height: 26px;">
+<td style="width: 54.5507%; height: 26px; text-align: center;"><strong>Criterio de evaluación</strong></td>
+<td style="width: 18.5507%; height: 26px; text-align: center;"><strong>Producto</strong></td>
+<td style="width: 16.1448%; height: 26px; text-align: center;"><strong>Procedimiento</strong></td>
+<td style="width: 10.7536%; height: 26px; text-align: center;"><strong>Instrumento</strong></td>
+</tr>
+<tr style="height: 26px;">
+<td style="width: 54.5507%; height: 26px; text-align: center;"><span style="font-size: 10pt;">1.1 Analizar conceptos y procesos biológicos y geológicos</span><br /><span style="font-size: 10pt;">interpretando información en diferentes formatos (textos, imágenes, modelos, gráficos, tablas, diagramas, fórmulas, esquemas, símbolos, páginas web, etc.), manteniendo una actitud crítica y obteniendo conclusiones fundamentadas.</span></td>
+<td style="width: 18.5507%; height: 26px; text-align: center;"><span style="font-size: 10pt;">Infografía</span></td>
+<td style="width: 16.1448%; height: 26px; text-align: center;"><span style="font-size: 10pt;">Análisis de producciones</span></td>
+<td style="width: 10.7536%; text-align: center; height: 26px;"><span style="font-size: 10pt;">Rúbrica</span></td>
+</tr>
+<tr style="height: 26px;">
+<td style="width: 54.5507%; height: 26px; text-align: center;"><span style="font-size: 10pt;">1.2 Facilitar la comprensión y análisis de información sobre procesos biológicos y geológicos transmitiéndola de forma clara y utilizando la terminología y los formatos adecuados (imágenes, modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas, símbolos, contenidos digitales, etc.), exponiendo argumentos fundamentados, respetuosos y flexibles.</span></td>
+<td style="width: 18.5507%; height: 26px; text-align: center;">
+<p><span style="font-size: 10pt;">Infografía</span></p>
+<p><span style="font-size: 10pt;">Podcast</span></p>
+</td>
+<td style="width: 16.1448%; height: 26px; text-align: center;"><br />
+<p><span style="font-size: 10pt;">Análisis de producciones</span></p>
+</td>
+<td style="width: 10.7536%; text-align: center; height: 26px;"><span style="font-size: 10pt;">Rúbrica</span></td>
+</tr>
+<tr style="height: 16px;">
+<td style="width: 54.5507%; height: 16px; text-align: center;"><span style="font-size: 10pt;">2.2 Reconocer la información sobre temas biológicos y geológicos con base científica distinguiéndola de pseudociencias, bulos, teorías conspiratorias y creencias infundadas y manteniendo una actitud escéptica ante estos.</span></td>
+<td style="width: 18.5507%; height: 16px; text-align: center;">
+<p><span style="font-size: 10pt;">Infografía</span></p>
+<p><span style="font-size: 10pt;">Podcast</span></p>
+</td>
+<td style="width: 16.1448%; height: 16px; text-align: center;">
+<p><span style="font-size: 10pt;">Análisis de producciones</span></p>
+<p><span style="font-size: 10pt;">Observación directa</span></p>
+</td>
+<td style="width: 10.7536%; text-align: center; height: 16px;"><span style="font-size: 10pt;">Rúbrica</span></td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 54.5507%; height: 10px; text-align: center;"><span style="font-size: 10pt;">3.5 Cooperar dentro de un proyecto científico  asumiendo responsablemente una función concreta, utilizando espacios virtuales cuando sea necesario, respetando la diversidad y favoreciendo la inclusión.</span></td>
+<td style="width: 18.5507%; height: 10px; text-align: center;">
+<p><span style="font-size: 10pt;">Infografía</span></p>
+<p><span style="font-size: 10pt;">Podcast</span></p>
+</td>
+<td style="width: 16.1448%; height: 10px; text-align: center;">
+<p><span style="font-size: 10pt;">Análisis de producciones</span></p>
+<p><span style="font-size: 10pt;">Observación directa</span></p>
+</td>
+<td style="width: 10.7536%; text-align: center; height: 10px;"><span style="font-size: 10pt;">Rúbrica</span></td>
+</tr>
+<tr style="height: 26px;">
+<td style="width: 54.5507%; height: 26px; text-align: center;"><span style="font-size: 10pt;">4.1 Resolver problemas, crear modelos o dar explicación a procesos biológicos o geológicos utilizando conocimientos, datos e información proporcionados por el profesorado, el razonamiento lógico, el pensamiento computacional o los recursos digitales.</span></td>
+<td style="width: 18.5507%; height: 26px; text-align: center;">
+<p><span style="font-size: 10pt;">Infografía</span></p>
+<p><span style="font-size: 10pt;">Podcast</span></p>
+</td>
+<td style="width: 16.1448%; height: 26px; text-align: center;"><span style="font-size: 10pt;">Análisis de producciones</span></td>
+<td style="width: 10.7536%; text-align: center; height: 26px;"><span style="font-size: 10pt;">Rúbrica</span></td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 54.5507%; height: 10px; text-align: center;"><span style="font-size: 10pt;">4.2 Analizar críticamente la solución a un problema sobre fenómenos biológicos y geológicos.</span></td>
+<td style="width: 18.5507%; height: 10px; text-align: center;">
+<p><span style="font-size: 10pt;">Infografía</span></p>
+<p><span style="font-size: 10pt;">Podcast</span></p>
+</td>
+<td style="width: 16.1448%; height: 10px; text-align: center;"><span style="font-size: 10pt;">Análisis de producciones</span></td>
+<td style="width: 10.7536%; text-align: center; height: 10px;"><span style="font-size: 10pt;">Rúbrica</span></td>
+</tr>
+</tbody>
+</table>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><strong>En las siguientes tablas se describen  los elementos curriculares asociados con la SdA diseñada.</strong></p>\n<table style=\"width: 100%; height: 52px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 26px;\">\n<td style=\"width: 100%; text-align: center; height: 26px;\"><strong>Competencias clave</strong></td>\n</tr>\n<tr style=\"height: 26px;\">\n<td style=\"width: 100%; height: 26px;\">Competencia en comunicación lingüística<br />Competencia matemática y competencia en ciencia, tecnología e ingeniería<br />Competencia digital<br />Competencia personal, social y de aprender a aprender<br />Competencia ciudadana<br />Competencia emprendedora<br />Competencia en conciencia y expresión culturales</td>\n</tr>\n</tbody>\n</table>\n<p><strong> </strong></p>\n<table style=\"width: 100%; height: 542px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 26px;\">\n<td style=\"width: 31.5942%; height: 26px; text-align: center;\"><strong>Competencias específicas</strong></td>\n<td style=\"width: 44.0289%; height: 26px; text-align: center;\"><strong>Criterios de evaluación</strong></td>\n<td style=\"width: 24.3768%; height: 26px; text-align: center;\"><strong>Descriptores operativos</strong></td>\n</tr>\n<tr style=\"height: 215px;\">\n<td style=\"width: 31.5942%; height: 158px; text-align: center;\"><span style=\"font-size: 10pt;\">1 - Interpretar y transmitir información y datos científicos argumentando sobre ellos y utilizando diferentes formatos para analizar conceptos y procesos de las ciencias biológicas y geológicas. </span></td>\n<td style=\"width: 44.0289%; height: 158px; text-align: center;\"><span style=\"font-size: 10pt;\">1.2 Facilitar la comprensión y análisis de información sobre procesos biológicos y geológicos transmitiéndola de forma clara y utilizando la terminología y los formatos adecuados (imágenes, modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas, símbolos, contenidos digitales, etc.), exponiendo argumentos fundamentados, respetuosos y flexibles.</span></td>\n<td style=\"width: 24.3768%; height: 158px; text-align: center;\"><span style=\"font-size: 10pt;\">CCL1, CCL2, STEM2, STEM4, CD1, CD4, CC4</span></td>\n</tr>\n<tr style=\"height: 107px;\">\n<td style=\"width: 31.5942%; height: 202px; text-align: center;\" rowspan=\"2\"><span style=\"font-size: 10pt;\">2 - Identificar, localizar y seleccionar información, contrastando su veracidad, organizándola y evaluándola críticamente para resolver preguntas relacionadas con las ciencias biológicas y geológicas.</span></td>\n<td style=\"width: 44.0289%; height: 85px; text-align: center;\"><span style=\"font-size: 10pt;\">2.1 Resolver cuestiones sobre Biología y Geología localizando, seleccionando y organizando información de distintas fuentes y citándolas correctamente.</span></td>\n<td style=\"width: 24.3768%; height: 85px; text-align: center;\"><span style=\"font-size: 10pt;\">CCL1, CCL2, STEM2, STEM3, CD1, CD2.</span></td>\n</tr>\n<tr style=\"height: 134px;\">\n<td style=\"width: 44.0289%; height: 117px; text-align: center;\"><span style=\"font-size: 10pt;\">2.2 Reconocer la información sobre temas biológicos y geológicos con base científica distinguiéndola de pseudociencias, bulos, teorías conspiratorias y creencias infundadas y manteniendo una actitud escéptica ante estos.</span></td>\n<td style=\"width: 24.3768%; height: 117px; text-align: center;\"><span style=\"font-size: 10pt;\">CCL3, STEM2, STEM3, CD1, CD2, CD3, CPSAA4, CCEC4</span></td>\n</tr>\n<tr style=\"height: 26px;\">\n<td style=\"width: 31.5942%; height: 26px; text-align: center;\"><span style=\"font-size: 10pt;\">3. Planificar y desarrollar proyectos </span><span style=\"font-size: 10pt;\">de investigación, siguiendo los </span><span style=\"font-size: 10pt;\">pasos de las metodologías </span><span style=\"font-size: 10pt;\">científicas y cooperando cuando</span><br /><span style=\"font-size: 10pt;\">sea necesario para indagar en </span><span style=\"font-size: 10pt;\">aspectos relacionados con las</span><br /><span style=\"font-size: 10pt;\">ciencias geológicas y biológicas.</span></td>\n<td style=\"width: 44.0289%; height: 26px; text-align: center;\"><span style=\"font-size: 10pt;\">3.5 Cooperar dentro de un proyecto científico </span><span style=\"font-size: 10pt;\">asumiendo responsablemente una función </span><span style=\"font-size: 10pt;\">concreta, utilizando espacios virtuales cuando </span><span style=\"font-size: 10pt;\">sea necesario, respetando la diversidad y </span><span style=\"font-size: 10pt;\">favoreciendo la inclusión.</span></td>\n<td style=\"width: 24.3768%; height: 26px; text-align: center;\"><span style=\"font-size: 10pt;\">CCL1, CD2, CPSAA3, CC1.</span></td>\n</tr>\n<tr style=\"height: 26px;\">\n<td style=\"width: 31.5942%; height: 26px; text-align: center;\"><span style=\"font-size: 10pt;\">4. Utilizar el razonamiento y el </span><span style=\"font-size: 10pt;\">pensamiento computacional,</span><br /><span style=\"font-size: 10pt;\">analizando críticamente las respuestas </span><span style=\"font-size: 10pt;\">y soluciones y reformulando el </span><span style=\"font-size: 10pt;\">procedimiento, si fuera necesario,</span><br /><span style=\"font-size: 10pt;\">para resolver problemas o dar </span><span style=\"font-size: 10pt;\">explicación a procesos de la vida.</span></td>\n<td style=\"width: 44.0289%; height: 26px; text-align: center;\"><span style=\"font-size: 10pt;\">4.1 Resolver problemas, crear modelos o </span><span style=\"font-size: 10pt;\">dar explicación a procesos biológicos o</span><br /><span style=\"font-size: 10pt;\">geológicos utilizando conocimientos, datos </span><span style=\"font-size: 10pt;\">e información proporcionados por el </span><span style=\"font-size: 10pt;\">profesorado, el razonamiento lógico, el </span><span style=\"font-size: 10pt;\">pensamiento computacional o los recursos</span><br /><span style=\"font-size: 10pt;\">digitales.</span></td>\n<td style=\"width: 24.3768%; height: 26px; text-align: center;\"><span style=\"font-size: 10pt;\">STEM1, STEM2, CD3, CD5, CE1, CE3, CCEC4.</span></td>\n</tr>\n</tbody>\n</table>\n<p><strong></strong></p>\n<table style=\"width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 100%; text-align: center;\"><strong>Saberes básicos</strong></td>\n</tr>\n<tr>\n<td style=\"width: 100%;\">\n<p><span style=\"font-size: 10pt;\"><strong>Bloque A: Proyecto científico</strong></span><br /><span style=\"font-size: 10pt;\">     Estrategias para la búsqueda, selección y organización de información sobre el consumo de tabaco y vapeadores en fuentes fiables.</span><br /><span style=\"font-size: 10pt;\">     Análisis crítico de la información relacionada con la salud y los hábitos de consumo en medios digitales y redes sociales.</span><br /><span style=\"font-size: 10pt;\">    Comunicación de resultados a través de diferentes formatos: infografía, podcast, presentación oral o vídeo.</span></p>\n<p><span style=\"font-size: 10pt;\"><strong>Bloque F: El cuerpo humano</strong></span><br /><span style=\"font-size: 10pt;\">    Anatomía y fisiología básica del aparato respiratorio.</span><br /><span style=\"font-size: 10pt;\">    Efectos del consumo de tabaco y vapeadores en el sistema respiratorio.</span><br /><span style=\"font-size: 10pt;\">    Principales enfermedades asociadas al tabaquismo (bronquitis, enfisema, cáncer de pulmón, entre otras).</span></p>\n<p><span style=\"font-size: 10pt;\"><strong>Bloque G: Hábitos de vida saludables</strong></span><br /><span style=\"font-size: 10pt;\">    Impacto del consumo de tabaco y nicotina en la salud física y mental.</span></p>\n<p><span style=\"font-size: 10pt;\">    Estrategias para la toma de decisiones responsables y el rechazo de hábitos perjudiciales.</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><strong></strong></p>\n<table style=\"width: 99.9984%; height: 166px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 26px;\">\n<td style=\"width: 54.5507%; height: 26px; text-align: center;\" colspan=\"4\"><strong>Evaluación</strong></td>\n</tr>\n<tr style=\"height: 26px;\">\n<td style=\"width: 54.5507%; height: 26px; text-align: center;\"><strong>Criterio de evaluación</strong></td>\n<td style=\"width: 18.5507%; height: 26px; text-align: center;\"><strong>Producto</strong></td>\n<td style=\"width: 16.1448%; height: 26px; text-align: center;\"><strong>Procedimiento</strong></td>\n<td style=\"width: 10.7536%; height: 26px; text-align: center;\"><strong>Instrumento</strong></td>\n</tr>\n<tr style=\"height: 26px;\">\n<td style=\"width: 54.5507%; height: 26px; text-align: center;\"><span style=\"font-size: 10pt;\">1.1 Analizar conceptos y procesos biológicos y geológicos</span><br /><span style=\"font-size: 10pt;\">interpretando información en diferentes formatos (textos, imágenes, modelos, gráficos, tablas, diagramas, fórmulas, esquemas, símbolos, páginas web, etc.), manteniendo una actitud crítica y obteniendo conclusiones fundamentadas.</span></td>\n<td style=\"width: 18.5507%; height: 26px; text-align: center;\"><span style=\"font-size: 10pt;\">Infografía</span></td>\n<td style=\"width: 16.1448%; height: 26px; text-align: center;\"><span style=\"font-size: 10pt;\">Análisis de producciones</span></td>\n<td style=\"width: 10.7536%; text-align: center; height: 26px;\"><span style=\"font-size: 10pt;\">Rúbrica</span></td>\n</tr>\n<tr style=\"height: 26px;\">\n<td style=\"width: 54.5507%; height: 26px; text-align: center;\"><span style=\"font-size: 10pt;\">1.2 Facilitar la comprensión y análisis de información sobre procesos biológicos y geológicos transmitiéndola de forma clara y utilizando la terminología y los formatos adecuados (imágenes, modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas, símbolos, contenidos digitales, etc.), exponiendo argumentos fundamentados, respetuosos y flexibles.</span></td>\n<td style=\"width: 18.5507%; height: 26px; text-align: center;\">\n<p><span style=\"font-size: 10pt;\">Infografía</span></p>\n<p><span style=\"font-size: 10pt;\">Podcast</span></p>\n</td>\n<td style=\"width: 16.1448%; height: 26px; text-align: center;\"><br />\n<p><span style=\"font-size: 10pt;\">Análisis de producciones</span></p>\n</td>\n<td style=\"width: 10.7536%; text-align: center; height: 26px;\"><span style=\"font-size: 10pt;\">Rúbrica</span></td>\n</tr>\n<tr style=\"height: 16px;\">\n<td style=\"width: 54.5507%; height: 16px; text-align: center;\"><span style=\"font-size: 10pt;\">2.2 Reconocer la información sobre temas biológicos y geológicos con base científica distinguiéndola de pseudociencias, bulos, teorías conspiratorias y creencias infundadas y manteniendo una actitud escéptica ante estos.</span></td>\n<td style=\"width: 18.5507%; height: 16px; text-align: center;\">\n<p><span style=\"font-size: 10pt;\">Infografía</span></p>\n<p><span style=\"font-size: 10pt;\">Podcast</span></p>\n</td>\n<td style=\"width: 16.1448%; height: 16px; text-align: center;\">\n<p><span style=\"font-size: 10pt;\">Análisis de producciones</span></p>\n<p><span style=\"font-size: 10pt;\">Observación directa</span></p>\n</td>\n<td style=\"width: 10.7536%; text-align: center; height: 16px;\"><span style=\"font-size: 10pt;\">Rúbrica</span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 54.5507%; height: 10px; text-align: center;\"><span style=\"font-size: 10pt;\">3.5 Cooperar dentro de un proyecto científico  asumiendo responsablemente una función concreta, utilizando espacios virtuales cuando sea necesario, respetando la diversidad y favoreciendo la inclusión.</span></td>\n<td style=\"width: 18.5507%; height: 10px; text-align: center;\">\n<p><span style=\"font-size: 10pt;\">Infografía</span></p>\n<p><span style=\"font-size: 10pt;\">Podcast</span></p>\n</td>\n<td style=\"width: 16.1448%; height: 10px; text-align: center;\">\n<p><span style=\"font-size: 10pt;\">Análisis de producciones</span></p>\n<p><span style=\"font-size: 10pt;\">Observación directa</span></p>\n</td>\n<td style=\"width: 10.7536%; text-align: center; height: 10px;\"><span style=\"font-size: 10pt;\">Rúbrica</span></td>\n</tr>\n<tr style=\"height: 26px;\">\n<td style=\"width: 54.5507%; height: 26px; text-align: center;\"><span style=\"font-size: 10pt;\">4.1 Resolver problemas, crear modelos o dar explicación a procesos biológicos o geológicos utilizando conocimientos, datos e información proporcionados por el profesorado, el razonamiento lógico, el pensamiento computacional o los recursos digitales.</span></td>\n<td style=\"width: 18.5507%; height: 26px; text-align: center;\">\n<p><span style=\"font-size: 10pt;\">Infografía</span></p>\n<p><span style=\"font-size: 10pt;\">Podcast</span></p>\n</td>\n<td style=\"width: 16.1448%; height: 26px; text-align: center;\"><span style=\"font-size: 10pt;\">Análisis de producciones</span></td>\n<td style=\"width: 10.7536%; text-align: center; height: 26px;\"><span style=\"font-size: 10pt;\">Rúbrica</span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 54.5507%; height: 10px; text-align: center;\"><span style=\"font-size: 10pt;\">4.2 Analizar críticamente la solución a un problema sobre fenómenos biológicos y geológicos.</span></td>\n<td style=\"width: 18.5507%; height: 10px; text-align: center;\">\n<p><span style=\"font-size: 10pt;\">Infografía</span></p>\n<p><span style=\"font-size: 10pt;\">Podcast</span></p>\n</td>\n<td style=\"width: 16.1448%; height: 10px; text-align: center;\"><span style=\"font-size: 10pt;\">Análisis de producciones</span></td>\n<td style=\"width: 10.7536%; text-align: center; height: 10px;\"><span style=\"font-size: 10pt;\">Rúbrica</span></td>\n</tr>\n</tbody>\n</table>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn801brm-xt8dav9ax</odePageId>
+  <odeParentPageId>page-mn801brh-tojks1pty</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn801brm-xt8dav9ax</odePageId>
+      <odeBlockId>block-mn7zmoy4-i4082vfkq</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn801brm-xt8dav9ax</odePageId>
+          <odeBlockId>block-mn7zmoy4-i4082vfkq</odeBlockId>
+          <odeIdeviceId>idevice-mn7zmoy4-5lwo7rnhm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;">Las metodologías serán coherentes con el modelo de aprendizaje por descubrimiento e indagación. Se concretarán en:</p>
+<p style="text-align: justify;"><strong>Aprendizaje basado en proyectos</strong><br />El alumnado desarrollará un proyecto en el que investigará los efectos del tabaco y el vapeo, elaborando productos finales como una infografía y un podcast. Este enfoque favorece un aprendizaje significativo al conectar los contenidos con situaciones reales y cercanas a su contexto.</p>
+<p style="text-align: justify;"><strong>Investigación guiada</strong><br />El alumnado llevará a cabo un proceso de búsqueda y análisis de información sobre el consumo de tabaco y sus efectos, con la orientación del docente. A través de esta metodología, se promueve el desarrollo del pensamiento crítico y la capacidad de seleccionar información fiable.</p>
+<p style="text-align: justify;">En caso necesario, respecto al <strong>DUA</strong>, las medidas de atención a las diferencias individuales pueden incluir, entre otras:</p>
+<p style="text-align: justify;">Sesiones previas a las representaciones: atención y ayuda por parte del docente en la búsqueda de información (proporcionar una serie de webs fiables), y para redactar los guiones. Además, se proporcionarán ejemplos que clarifiquen las características del trabajo y resultados que se pretenden.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\">Las metodologías serán coherentes con el modelo de aprendizaje por descubrimiento e indagación. Se concretarán en:</p>\n<p style=\"text-align: justify;\"><strong>Aprendizaje basado en proyectos</strong><br />El alumnado desarrollará un proyecto en el que investigará los efectos del tabaco y el vapeo, elaborando productos finales como una infografía y un podcast. Este enfoque favorece un aprendizaje significativo al conectar los contenidos con situaciones reales y cercanas a su contexto.</p>\n<p style=\"text-align: justify;\"><strong>Investigación guiada</strong><br />El alumnado llevará a cabo un proceso de búsqueda y análisis de información sobre el consumo de tabaco y sus efectos, con la orientación del docente. A través de esta metodología, se promueve el desarrollo del pensamiento crítico y la capacidad de seleccionar información fiable.</p>\n<p style=\"text-align: justify;\">En caso necesario, respecto al <strong>DUA</strong>, las medidas de atención a las diferencias individuales pueden incluir, entre otras:</p>\n<p style=\"text-align: justify;\">Sesiones previas a las representaciones: atención y ayuda por parte del docente en la búsqueda de información (proporcionar una serie de webs fiables), y para redactar los guiones. Además, se proporcionarán ejemplos que clarifiquen las características del trabajo y resultados que se pretenden.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn801brm-2sskucbv0</odePageId>
+  <odeParentPageId>page-mn801brh-tojks1pty</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn801brm-2sskucbv0</odePageId>
+      <odeBlockId>block-mn7zmoy4-6ajt6s0eo</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn801brm-2sskucbv0</odePageId>
+          <odeBlockId>block-mn7zmoy4-6ajt6s0eo</odeBlockId>
+          <odeIdeviceId>idevice-mn7zmoy4-q4b0d0qnt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;">La SdA se relaciona con los siguientes proyectos y programas del centro:</p>
+<p style="text-align: justify;"><strong>Programa de lectura, escritura e investigación</strong></p>
+<p style="text-align: justify;">Propuesta de tareas que impliquen la redacción y elaboración de documentos, partiendo de la lectura y análisis de distintos materiales que servirán como estímulo y fuente de información.</p>
+<p style="text-align: justify;"><strong>Programa de igualdad del centro</strong></p>
+<p style="text-align: justify;">Uso de materiales inclusivos y coeducativos que rompan con los estereotipos de género y representen la diversidad de la realidad social. Se seleccionarán recursos que fomenten la igualdad entre mujeres y hombres, garantizando que estén libres de sexismo y estereotipos de género.<br />Empleo de un lenguaje inclusivo y no sexista, que no invisibilice ni excluya a las mujeres, tanto en los materiales del departamento como en el desarrollo de las clases.</p>
+<p style="text-align: justify;"><strong>Proyecto “Radio escolar”</strong></p>
+<p style="text-align: justify;">Desarrollo de la radio escolar como espacio participativo para el alumnado. Los podcasts elaborados en la SdA podrán ser utilizados y difundidos a través de este medio, integrando así el trabajo del alumnado en un proyecto colectivo del centro.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\">La SdA se relaciona con los siguientes proyectos y programas del centro:</p>\n<p style=\"text-align: justify;\"><strong>Programa de lectura, escritura e investigación</strong></p>\n<p style=\"text-align: justify;\">Propuesta de tareas que impliquen la redacción y elaboración de documentos, partiendo de la lectura y análisis de distintos materiales que servirán como estímulo y fuente de información.</p>\n<p style=\"text-align: justify;\"><strong>Programa de igualdad del centro</strong></p>\n<p style=\"text-align: justify;\">Uso de materiales inclusivos y coeducativos que rompan con los estereotipos de género y representen la diversidad de la realidad social. Se seleccionarán recursos que fomenten la igualdad entre mujeres y hombres, garantizando que estén libres de sexismo y estereotipos de género.<br />Empleo de un lenguaje inclusivo y no sexista, que no invisibilice ni excluya a las mujeres, tanto en los materiales del departamento como en el desarrollo de las clases.</p>\n<p style=\"text-align: justify;\"><strong>Proyecto “Radio escolar”</strong></p>\n<p style=\"text-align: justify;\">Desarrollo de la radio escolar como espacio participativo para el alumnado. Los podcasts elaborados en la SdA podrán ser utilizados y difundidos a través de este medio, integrando así el trabajo del alumnado en un proyecto colectivo del centro.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn801brn-sq6xegowr</odePageId>
+  <odeParentPageId>page-mn801brh-tojks1pty</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn801brn-sq6xegowr</odePageId>
+      <odeBlockId>block-mn7zmoy4-ws53h3f4x</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn801brn-sq6xegowr</odePageId>
+          <odeBlockId>block-mn7zmoy4-ws53h3f4x</odeBlockId>
+          <odeIdeviceId>idevice-mn7zmoy4-jl7ehwfwe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;">En cuanto a las actividades complementarias, se propone relacionar la contaminación de colillas en el medio ambiente y la producción de fuegos por el mal apagado de las mismas con la ponencia “Medio Ambiente” realizada en el centro a través del Plan Director en la que el Seprona explicó la semana pasada el peligro de los incendios y la quema ilegal de residuos.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\">En cuanto a las actividades complementarias, se propone relacionar la contaminación de colillas en el medio ambiente y la producción de fuegos por el mal apagado de las mismas con la ponencia “Medio Ambiente” realizada en el centro a través del Plan Director en la que el Seprona explicó la semana pasada el peligro de los incendios y la quema ilegal de residuos.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn801bro-wowwm71w9</odePageId>
+  <odeParentPageId>page-mn801brh-tojks1pty</odeParentPageId>
+  <pageName>6. Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn801bro-wowwm71w9</odePageId>
+      <odeBlockId>block-mn7zmoy4-r7h2p8j80</odeBlockId>
+      <blockName>Descargar archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn801bro-wowwm71w9</odePageId>
+          <odeBlockId>block-mn7zmoy4-r7h2p8j80</odeBlockId>
+          <odeIdeviceId>idevice-mn7zmoy5-xfz410huz</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>Situación de Aprendizaje: Prevención del consumo de tabaco y vapeo.</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>SdA: Prevención del consumo de tabaco y vapeo.</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Ana Castañeda Sampedro</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a href="exe-package:elp">Descargar el fichero .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
